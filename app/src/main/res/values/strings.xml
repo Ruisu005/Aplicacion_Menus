@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Menus</string>
+
+    <string name="menu_Action_Bar">Menu Action Bar</string>
+    <string name="menu_contextual">Menu Contextual</string>
+    <string name="menu_PopUp">Menu PopUp</string>
+
+    <string name="btn_Contextual">Menu Contextual</string>
+    <string name="btn_PopUp">Menu PopUp</string>
+
+    <string name="opciones">Opciones</string>
+    <string name="MenuOpciones">Ir a Menu de Opciones</string>
+    <string name="MenuContextual">Ir a Menu Contextual</string>
+    <string name="MenuPopUp">Ir a Menu PopUp</string>
+    <string name="pantallaPrin">Ir a Pantalla Principal</string>
+    <string name="salirApp">Salir de la App</string>
+</resources>

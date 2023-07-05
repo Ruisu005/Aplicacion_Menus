@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:icon="@drawable/baseline_more"
+        android:title="@string/opciones"
+        app:showAsAction="always"
+        android:id="@+id/btnMas">
+
+        <menu>
+            <item
+                android:id="@+id/menu_contextual"
+                android:icon="@drawable/menu_contextual_icon"
+                android:title="@string/MenuContextual"/>
+
+            <item
+                android:id="@+id/menu_opciones"
+                android:icon="@drawable/menu_opciones_icon"
+                android:title="@string/MenuOpciones"/>
+
+            <item
+                android:id="@+id/pantalla_principal"
+                android:icon="@drawable/menu_principal_icon"
+                android:title="@string/pantallaPrin"/>
+
+            <item
+                android:id="@+id/salir_app"
+
+                android:icon="@drawable/salir_app_icon"
+                android:title="@string/salirApp"/>
+
+        </menu>
+
+    </item>
+
+
+</menu>
